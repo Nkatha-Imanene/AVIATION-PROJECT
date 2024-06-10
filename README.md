@@ -80,7 +80,7 @@ The dataset used for this analysis, was the aviation accidents dataset from kagg
 ### Boeing (Commercial Aircraft Sector)
 - **Safety Record:** Boeing maintains a relatively low accident rate despite a high volume of operations.
 - **Injury Severity:** Lower fatality rate compared to other commercial aircraft manufacturers, showcasing effective safety features.
-- 
+
 Based on the analysis, **Gulfstream** is recommended for the private aircraft sector due to its excellent safety record, reliable engine performance, and better handling of adverse weather conditions. For the commercial aircraft sector, **Boeing** is recommended because of its low accident rate relative to its volume of operations and high uninjured passengers rate.
 ## Tableau Dashboards
 
