@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project involves a comprehensive data analysis of aviation accidents using data from the National Transportation Safety Board (NTSB). The dataset includes civil aviation accidents and selected incidents in the United States and international waters from 1962 to 2023. The goal of this analysis is to recommend an aircraft manufacturer in the private aircraft space and the commercial aircraft space for a company seeking to venture into the aviation industry. The primary focus is to identify aircraft with the lowest risk to ensure a safe and sustainable business endeavor.
+This project involves a comprehensive data analysis of aviation accidents using data from the National Transportation Safety Board (NTSB). The dataset includes civil aviation accidents and selected incidents in the United States and international waters from 1962 to 2023. The goal of this analysis is to recommend an aircraft manufacturer in the private aircraft space and the commercial aircraft space for my company which is seeking to venture into the aviation industry. The primary focus is to identify aircraft with the lowest risk to ensure a safe and sustainable business endeavor.
 
 ## Data Description
 
